@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Password-Protect-and-Encrypt-Email-in-Outlook/sitemap.xml
